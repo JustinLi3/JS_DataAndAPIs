@@ -1,0 +1,4 @@
+1. call fetch(_path_) 'cat.jpg' 
+2. response  'returns a promise' 
+3. grab actual data 
+4. make img element 
