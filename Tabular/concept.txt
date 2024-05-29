@@ -1,0 +1,4 @@
+Part 1
+1. load csv file 
+2. parse file 
+3. graph data
